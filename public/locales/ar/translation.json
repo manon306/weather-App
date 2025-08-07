@@ -1,0 +1,17 @@
+{
+    "min": "الصغري",
+    "max": "الكبري",
+    "Egypt": "مصر",
+    "humidity": "الرطوبة",
+    "wind_speed": "سرعة الرياح",
+    "pressure": "الضغط",
+    "visibility": "الرؤية",
+    "sunrise": "الشروق",
+    "sunset": "الغروب",
+    "feels_like": "تشعر بـ",
+    "refresh": "تحديث",
+    "last_updated": "آخر تحديث",
+    "error_fetching_data": "خطأ في جلب بيانات الطقس",
+    "location_error": "خطأ في الحصول على الموقع",
+    "geolocation_not_supported": "الموقع الجغرافي غير مدعوم"
+  }
